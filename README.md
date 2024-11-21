@@ -1,5 +1,3 @@
-<p align=end><strong><a href="https://github.com/SwishSwishBish/tecmi-ecommerce-frontend"> < Check out the frontend > </a></strong></p>
-
 # <p align=center>Tecmi E-Commerce</p>
 <p align="center"><img 
     style="width: 70%;"
@@ -59,19 +57,12 @@ This project is a web-based e-commerce application developed with Java, Spring B
 <details close="open">
   <summary><strong>Front-End</strong></summary>
     <ul>
-        <li>Vue</li>
+        <li>React.js</li>
     </ul>
-    <ul>
-        <li>Vue Router</li>
-    </ul>
-    <ul>
+     <ul>
         <li>Bootstrap</li>
     </ul>
-    <ul>
-        <li>Stripe</li>
-    </ul>
-
-
+    
 </details>
 
 ##  Functionality
