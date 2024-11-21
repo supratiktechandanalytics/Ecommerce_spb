@@ -1,7 +1,7 @@
 # <p align=center>Tecmi E-Commerce</p>
 <p align="center"><img 
     style="width: 70%;"
-    src="https://github.com/SwishSwishBish/tecmi-ecommerce-backend/raw/master/images/tecmi-1.png" 
+    src="https://github.com/supratiktechandanalytics/Ecommerce_spb/blob/main/images/tecmi-1.png" 
     alt="Our logo">
 </img></p>
 <p align="center">
